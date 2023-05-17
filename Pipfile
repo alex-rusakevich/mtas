@@ -9,6 +9,8 @@ toml = "*"
 
 [dev-packages]
 pyinvoke = "*"
+watchdog = "*"
+psutil = "*"
 
 [requires]
 python_version = "3.11"
